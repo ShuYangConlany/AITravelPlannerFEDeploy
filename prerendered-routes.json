@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/api-manager",
+    "/conversation",
+    "/flight_offers",
+    "/google-map",
+    "/reference-data"
+  ]
+}
